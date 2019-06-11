@@ -1,6 +1,1 @@
-Logging, configuration & other common utilities used by other cranial components.
-
-INSTALLATION
-------------
-
-`pip install cranial-common`
+This repository is deprecated. Everything required for cranial is now consolidated in https://github.com/tribune/cranial-messaging
